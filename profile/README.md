@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./assets/logo.png" width="100" alt="떴냐? 떴다! 로고" />
+<img src="./assets/logo.png" width="80" alt="떴냐? 떴다! 로고" />
 
 # 🚚 떴냐? 떴다!
 
@@ -105,7 +105,7 @@
 
 <br/>
 
-**[▶ 서비스 시연 영상 보러 가기](시연영상_URL)**
+<a href="시연영상_URL"><b>▶ 서비스 시연 영상 보러 가기</b></a>
 
 </div>
 
@@ -132,19 +132,45 @@
 
 ### Frontend
 
-<!-- 실제 프론트엔드 기술 스택 추가 -->
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white"/>
 
 ### Backend
 
-<!-- 실제 백엔드 기술 스택 추가 -->
+<img src="https://img.shields.io/badge/Java_17-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
 
 ### Database & Infrastructure
 
-<!-- 실제 DB 및 인프라 기술 스택 추가 -->
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/H2-09476B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/>
 
 ### AI & Data
 
-<!-- 실제 AI 및 데이터 기술 스택 추가 -->
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Maps_API-4285F4?style=flat-square&logo=googlemaps&logoColor=white"/>
+
+</div>
+
+<br/>
+
+## 🏆 Awards & Achievements
+
+<div align="center">
+
+### 🥉 2025 기업데이터 활용 AI 경진대회
+
+**우수상 (IT대학장상)**
+
+2026.01.06
 
 </div>
 
@@ -158,14 +184,40 @@
 
 **더 많은 만남과 새로운 영업 기회를 만들어갑니다.**
 
-</div>
+<br/>
 
-| Name | Role | GitHub |
-|:---:|:---:|:---:|
-| [이름] | Backend | [@username](https://github.com/) |
-| [이름] | Frontend | [@username](https://github.com/) |
-| [이름] | AI / Data | [@username](https://github.com/) |
-| [이름] | Design | [@username](https://github.com/) |
+<table>
+  <tr>
+    <th align="center">Role</th>
+    <th align="center">GitHub</th>
+  </tr>
+  <tr>
+    <td align="center">Backend · AI & Data</td>
+    <td align="center">
+      <a href="https://github.com/chae-ring">@chae-ring</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">Frontend</td>
+    <td align="center">
+      <a href="https://github.com/gaepodongmin">@gaepodongmin</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">Frontend</td>
+    <td align="center">
+      <a href="https://github.com/hyoddi">@hyoddi</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">Backend · Presentation</td>
+    <td align="center">
+      <a href="https://github.com/Novice-Dev-Robin">@Novice-Dev-Robin</a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 <br/>
 
